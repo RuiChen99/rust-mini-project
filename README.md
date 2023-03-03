@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust mini project for week6 -- A Dot Product Calculator
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+ This project is a dot product calculator. Free free to "cargo run" and then type the numbers of two vectors. The result will come out.
